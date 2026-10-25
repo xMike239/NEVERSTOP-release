@@ -1,18 +1,30 @@
-⚔️ NEVERSTOP
 
-A dark fantasy dungeon crawler inspired by classic turn-based RPGs.
+<div align="center">
 
-The dungeon is waiting.
+# ⚔️ NEVERSTOP ⚔️
 
-The invitation has been sent.
+### A Dark Fantasy Dungeon Crawler
 
-There is only one rule.
+*The dungeon is waiting.*
 
-NEVER STOP.
+*The invitation has been sent.*
 
-⸻
+*There is only one rule.*
 
-🏰 ENTER THE DUNGEON
+# NEVER STOP.
+
+![Version](https://img.shields.io/badge/Version-0.1.0-gold)
+![Status](https://img.shields.io/badge/Status-Pre--Alpha-red)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Engine](https://img.shields.io/badge/Engine-Pygame-green)
+
+**[DOWNLOAD THE LATEST RELEASE](../../releases/latest)**
+
+</div>
+
+---
+
+## 🏰 ENTER THE DUNGEON
 
 Deep within an ancient dungeon, a challenge awaits those brave enough to answer its call.
 
@@ -24,115 +36,133 @@ Every battle tests your resolve.
 
 And every adventurer must eventually ask themselves:
 
-How far am I willing to go?
+**How far am I willing to go?**
 
-⸻
+---
 
-⚔️ GAMEPLAY
+## ⚔️ GAMEPLAY
 
 NEVERSTOP combines classic JRPG-inspired combat with a dark fantasy atmosphere and an unforgiving dungeon experience.
 
-Current Features — v0.1.0
+### Current Features — v0.1.0
 
-* ⚔️ Classic turn-based combat
-* 🛡️ Attack and defend mechanics
-* 💀 Multiple enemy types
-* 🏰 Retro pixel-art dungeon environments
-* 🔥 Atmospheric animated torchlight
-* ❤️ Health and combat status tracking
-* 🏆 Victory and defeat screens
-* 💀 A running kill counter
-* ♾️ Endless encounters — survive as long as you can
+- ⚔️ Classic turn-based combat
+- 🛡️ Attack and defend mechanics
+- 💀 Multiple enemy types
+- 🏰 Retro pixel-art dungeon environments
+- 🔥 Atmospheric animated torchlight
+- ❤️ Health and combat status tracking
+- 🏆 Victory and defeat screens
+- 💀 A running kill counter
+- ♾️ Endless encounters — survive as long as you can
 
-Every enemy defeated is another step forward.
+> *Every enemy defeated is another step forward.*
 
-⸻
+---
 
-🎮 DOWNLOAD & PLAY
+## 🎮 DOWNLOAD & PLAY
 
-Windows — v0.1.0 Early Playtest
+### Windows — v0.1.0 Early Playtest
 
-⬇️ DOWNLOAD NEVERSTOP
+### [⬇️ DOWNLOAD NEVERSTOP](../../releases/latest)
 
-1. Download NEVERSTOP.exe from the latest release.
+**Installation:**
+
+1. Download `NEVERSTOP.exe` from the latest release.
 2. Launch the executable.
 3. Enter the dungeon.
 4. See how long you survive.
 
-Platform: Windows
-Status: Early Playtest / Pre-Alpha
-Price: Free
+| | |
+|---|---|
+| **Platform** | Windows |
+| **Version** | 0.1.0 |
+| **Status** | Early Playtest / Pre-Alpha |
+| **Price** | Free |
 
-⚠️ Windows Security Notice
+> [!WARNING]
+> **Windows Security Notice**
+>
+> NEVERSTOP is an independently developed game without a code-signing certificate.
+>
+> Windows SmartScreen may display a warning when launching the executable.
+>
+> Only download the game from this official repository and verify its source before deciding whether to run it.
 
-Because NEVERSTOP is an independently developed game without a code-signing certificate, Windows SmartScreen may display a warning when launching the executable.
+---
 
-Only download the game from this official repository. If Windows displays a warning, verify that the file came from this release before deciding whether to run it.
+## 🎮 CONTROLS
 
-⸻
+| Key | Action |
+|---|---|
+| ↑ / ↓ | Navigate menus |
+| Enter | Confirm selection |
+| Attack | Strike your enemy |
+| Defend | Brace for the next attack |
 
-🎮 CONTROLS
+*Controls and mechanics may change during development.*
 
-Key	Action
-⬆️ / ⬇️	Navigate menus
-Enter	Confirm selection
-Attack	Strike your enemy
+---
 
+## 🧪 DEVELOPMENT STATUS
 
-Controls and mechanics may change during development.
-
-⸻
-
-🧪 DEVELOPMENT STATUS
-
-Current Version: v0.1.0 — The First Descent
+### v0.1.0 — THE FIRST DESCENT
 
 NEVERSTOP is in active early development.
 
-This initial release is focused on establishing the game’s combat systems, visual identity, and core gameplay loop.
+This initial release focuses on establishing the game's combat systems, visual identity, and core gameplay loop.
 
 The dungeon is still growing.
 
-Future updates may introduce expanded progression, additional enemies, new gameplay systems, and deeper exploration of the world of NEVERSTOP.
+Future updates may introduce:
 
-This is only the beginning.
+- Expanded character progression
+- Additional enemy types
+- New gameplay mechanics
+- Deeper dungeon exploration
+- Expanded worldbuilding and lore
+- Additional visual and audio enhancements
 
-⸻
+**This is only the beginning.**
 
-🐛 PLAYTESTERS WANTED
+---
+
+## 🐛 PLAYTESTERS WANTED
 
 NEVERSTOP is currently being tested by a small group of early adventurers.
 
-If you’re playing, your feedback matters!
+If you're playing, your feedback matters!
 
-I’m especially interested in:
+I'm especially interested in:
 
-* Combat balance and difficulty
-* Bugs, crashes, or unexpected behavior
-* UI readability and usability
-* How many enemies you defeated before dying
-* Whether the game makes you want to try again
+- Combat balance and difficulty
+- Bugs, crashes, or unexpected behavior
+- UI readability and usability
+- How many enemies you defeated before dying
+- Whether the game makes you want to try again
 
-Found something strange?
+### Found something strange?
 
-Report a bug or leave feedback
+**[REPORT A BUG OR LEAVE FEEDBACK](../../issues)**
 
-Your death is valuable data.
+> *Your death is valuable data.*
 
-⸻
+---
 
-🛠️ BUILT WITH
+## 🛠️ BUILT WITH
 
-* Python — Core game logic
-* Pygame — Game engine and rendering
-* Pixel Art — Retro-inspired characters and environments
-* GitHub — Development and release distribution
+| Technology | Purpose |
+|---|---|
+| Python | Core game logic |
+| Pygame | Game engine and rendering |
+| Pixel Art | Retro-inspired characters and environments |
+| GitHub | Development and release distribution |
 
 NEVERSTOP is an independent game development project built through experimentation, iteration, and an unreasonable number of pixel adjustments.
 
-⸻
+---
 
-📜 A NOTE FROM THE DEVELOPER
+## 📜 A NOTE FROM THE DEVELOPER
 
 NEVERSTOP started as an experiment in building a game from scratch.
 
@@ -146,22 +176,22 @@ But every release is another step toward the game I want to create.
 
 Thank you for being here at the beginning.
 
-— xMike239
+**— xMike239**
 
-⸻
+---
 
 <div align="center">
 
-⚔️ THE DUNGEON DOES NOT WAIT.
+### ⚔️ THE DUNGEON DOES NOT WAIT. ⚔️
 
-One more battle.
+*One more battle.*
 
-One more victory.
+*One more victory.*
 
-One more step.
+*One more step.*
 
-NEVERSTOP
+# NEVERSTOP
 
-© 2026 xMike239. All rights reserved.
+**© 2026 xMike239. All rights reserved.**
 
 </div>
